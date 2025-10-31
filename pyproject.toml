@@ -130,6 +130,10 @@ geobenchv2 = [
   "mlflow",
 ]
 
+agbd = [
+  "astropy",
+]
+
 [project.urls]
 Documentation = "https://ibm.github.io/terratorch/"
 Issues = "https://github.com/IBM/terratorch/issues"
